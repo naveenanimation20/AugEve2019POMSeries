@@ -40,5 +40,9 @@ public class ContactsPage extends BasePage {
 		elementActions.doSendKeys(jobTitle, jobtitle);
 		elementActions.doClickByActions(createContactFormButton);
 	}
+	
+	public void test(){
+		System.out.println("test method");
+	}
 
 }
