@@ -54,17 +54,21 @@ public class HomePage extends BasePage {
 		elementActions.doClick(contactMainTab);
 		elementActions.doClick(contactChildTab);
 	}
-	
-	public void homepageVerify(){
-	
+
+	public void homepageVerify() {
+
 	}
-	
-	public void homepage_urlTest(){
-		
+
+	public void homepage_urlTest() {
+
 	}
-	
-	public void homepage_accountTest(){
-		
+
+	public void homepage_accountTest() {
+		System.out.println("hp===account test");
+	}
+
+	public void homepage_headertest() {
+
 	}
 	
 	public void homepage_profileTest(){
