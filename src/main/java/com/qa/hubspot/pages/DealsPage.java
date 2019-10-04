@@ -13,8 +13,13 @@ public class DealsPage extends BasePage {
 	
 	public void createDeal(){
 		System.out.println("create deal ...");
+		System.out.println("create deal with selenium....");
 	}
 	
+	/**
+	 * get page title...
+	 * @return
+	 */
 	public String getDealPageTitle(){
 		return driver.getTitle();
 	}
