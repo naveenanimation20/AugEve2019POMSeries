@@ -72,7 +72,7 @@ public class HomePage extends BasePage {
 	}
 	
 	public void homePage_linkTest(){
-		
+		System.out.println("HII Link Test");
 	}
 	
 	
