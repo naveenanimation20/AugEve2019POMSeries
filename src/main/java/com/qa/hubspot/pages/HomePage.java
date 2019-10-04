@@ -54,5 +54,9 @@ public class HomePage extends BasePage {
 		elementActions.doClick(contactMainTab);
 		elementActions.doClick(contactChildTab);
 	}
+	
+	public void homepageVerify(){
+	
+	}
 
 }
