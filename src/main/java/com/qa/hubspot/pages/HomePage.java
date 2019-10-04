@@ -71,6 +71,10 @@ public class HomePage extends BasePage {
 		
 	}
 	
+	public void homePage_linkTest(){
+		
+	}
+	
 	
 
 }
