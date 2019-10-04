@@ -66,5 +66,11 @@ public class HomePage extends BasePage {
 	public void homepage_accountTest(){
 		
 	}
+	
+	public void homepage_profileTest(){
+		
+	}
+	
+	
 
 }
