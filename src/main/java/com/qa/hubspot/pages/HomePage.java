@@ -60,7 +60,11 @@ public class HomePage extends BasePage {
 	}
 	
 	public void homepage_urlTest(){
+		
+	}
 	
+	public void homepage_accountTest(){
+		
 	}
 
 }
