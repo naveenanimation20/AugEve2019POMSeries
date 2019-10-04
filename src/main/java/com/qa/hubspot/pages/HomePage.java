@@ -58,5 +58,9 @@ public class HomePage extends BasePage {
 	public void homepageVerify(){
 	
 	}
+	
+	public void homepage_urlTest(){
+	
+	}
 
 }
