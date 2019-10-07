@@ -70,17 +70,15 @@ public class HomePage extends BasePage {
 	public void homepage_headertest() {
 
 	}
-	
-	public void homepage_profileTest(){
-		
+
+	public void homepage_profileTest() {
+
 	}
-	
-	public void homePage_linkTest(){
+
+	public void homePage_linkTest() {
 		System.out.println("HII Link Test");
-		
+
 		System.out.println("testing....");
 	}
-	
-	
 
 }
